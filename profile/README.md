@@ -2,8 +2,4 @@
 
 Installation scripts for applications and tools.
 
-Add our brew tap in own machine:
-
-```sh
-brew tap brew-tools/tap
-```
+Check out the [brew-tap](https://github.com/brew-tools/homebrew-tap) for a list of available tools.
